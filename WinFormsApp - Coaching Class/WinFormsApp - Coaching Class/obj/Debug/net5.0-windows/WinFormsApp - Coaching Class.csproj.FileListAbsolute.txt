@@ -1,0 +1,19 @@
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.exe
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.deps.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.runtimeconfig.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.runtimeconfig.dev.json
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\ref\WinFormsApp - Coaching Class.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\bin\Debug\net5.0-windows\WinFormsApp - Coaching Class.pdb
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.csproj.AssemblyReference.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp___Coaching_Class.Form1.resources
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp___Coaching_Class.Properties.Resources.resources
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.csproj.GenerateResource.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.AssemblyInfoInputs.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.AssemblyInfo.cs
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.csproj.CoreCompileInputs.cache
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\ref\WinFormsApp - Coaching Class.dll
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.pdb
+D:\Assignment C# 9-11-2021 By Mahmoud Sayed Youssef\WinFormsApp - Coaching Class\WinFormsApp - Coaching Class\obj\Debug\net5.0-windows\WinFormsApp - Coaching Class.genruntimeconfig.cache
